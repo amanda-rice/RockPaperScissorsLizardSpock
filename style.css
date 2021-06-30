@@ -1,0 +1,17 @@
+:root {
+  scroll-behavior: smooth;
+  font-family: 'Benne', serif;
+}
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  scroll-behavior: smooth;
+  font-family: 'Benne', serif;
+}
+main {
+  flex-grow: 1;
+}
+.icon-size{
+  font-size:100px;
+}

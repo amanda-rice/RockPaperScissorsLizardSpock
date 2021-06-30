@@ -15,3 +15,6 @@ main {
 .icon-size{
   font-size:100px;
 }
+.height-tall{
+  height: 80vh
+}
